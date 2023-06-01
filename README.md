@@ -1,0 +1,2 @@
+# Solution of Drumkit practice challenge proposed by https://www.appbrewery.com.
+This practice challenge was about to use all that knowledge that I learned about the DOM and Javascript to create an interactive drum kit, where sound get trigger when buttons get click or when certenin keys get press. Also when the buttons or keys get press an animation of the pressing button appears and aftes 1sg disappears.
